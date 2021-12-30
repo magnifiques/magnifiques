@@ -1,8 +1,15 @@
 #  Hello! my name is magnifiques :pizza:.
 
-### I like to build web applications and UI/UX designs.
-### Most of my projects have made on ReactJS and Javascript.
-### I am adroit in Node.js, Express.js, ReactJS, Firebase and Adobe XD.
+#### I like to build web applications and UI/UX designs.
+#### Most of my projects have made on ReactJS and Javascript.
+#### I am adroit in Node.js, Express.js, ReactJS, Firebase and Adobe XD.
+
+### List of my projects that has been done: 
+
+## - 🎬 Netflex the app
+
+
+
 <!--
 **magnifiques/magnifiques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
