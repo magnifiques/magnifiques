@@ -4,9 +4,15 @@
 #### Most of my projects have made on ReactJS and Javascript.
 #### I am adroit in Node.js, Express.js, ReactJS, Firebase and Adobe XD.
 
-### List of my projects that has been done: 
+
+
+### ⚪ List of my projects that has been done: 
+
+
 
 ## - 🎬 Netflex the app
+
+  ![Netflex app Screenshot](https://mega.nz/file/l55gXaiJ#xt0Duxk09lvmyUuFu_qSoZDHnueeQ8LJDxAs4iNHKLY)
 
 
 
