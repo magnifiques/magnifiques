@@ -1,6 +1,6 @@
 #  Hello! my name is magnifiques :pizza:.
 
-### I fond to build web applications and UI/UX designs.
+### I like to build web applications and UI/UX designs.
 ### Most of my projects have made on ReactJS and Javascript.
 ### I am adroit in Node.js, Express.js, ReactJS, Firebase and Adobe XD.
 <!--
