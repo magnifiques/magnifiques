@@ -18,7 +18,7 @@
   
   
   #### -For Frontend I've used: ReactJS, Styled-Components, Font-Awesome And Fuse.js.
-  #### -For Backend: Firebase for, 1. Storing information about meta-data and data related to movies and tv-shows. and 2. Sign-In and Sign-Up features.
+  #### -For Backend: Firebase for, 1. Storing information related to movies and tv-shows. and 2. Sign-In and Sign-Up features.
 
 
 <!--
