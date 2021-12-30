@@ -1,7 +1,8 @@
 #  Hello! my name is magnifiques :pizza:.
 
-### I am currently working and building web applications based on ReactJS and other modules.
-
+### I fond to build web applications and UI/UX designs.
+### Most of my projects have made on ReactJS and Javascript.
+### I am adroit in Node.js, Express.js, ReactJS, Firebase and Adobe XD.
 <!--
 **magnifiques/magnifiques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
