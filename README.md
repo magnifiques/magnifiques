@@ -49,7 +49,7 @@
   ### The Website Link: [lafoodfiesta](https://magnifiques.github.io/lafoodfiesta/)
   
   #### -Created only with the help of basic HTML, CSS and Javascript.
-  #### Edanam's API has been used for recipe's data.
+  #### -Edanam's API has been used for recipe's data.
   
 <!--
 **magnifiques/magnifiques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
