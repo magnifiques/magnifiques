@@ -30,12 +30,17 @@
   
   
   #### -For Frontend: ReactJs, Styled-Component and Font-Awesome.
-  #### -For Backend: Firebase and Dicebear with Google Signup/SignIn with the help of Firebase authentication.
+  #### -For Backend: Firebase and Dicebear with Google Signup/SignIn feature by the help of Firebase authentication.
 
 
 ## - 🍿 PopAndCorn
 
-  ![PopAndCorn Screenshot]
+  ![PopAndCorn Screenshot](https://drive.google.com/uc?id=1A-yFW7cks0XzmpgAYr_VqJJf4hFu3q1B)
+  
+  ### The Website Link: [popandcorn](https://popandcorn.netlify.app/)
+  
+  #### -ReactJS and material-ui are used as there is no backend portion.
+  #### -UI design has been done with the collaboration with [Jeetpatel1016](https://github.com/JeetPatel1016)
 
 <!--
 **magnifiques/magnifiques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
