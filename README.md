@@ -40,8 +40,17 @@
   ### The Website Link: [popandcorn](https://popandcorn.netlify.app/)
   
   #### -ReactJS and material-ui are used as there is no backend portion.
-  #### -UI design has been done with the collaboration with [Jeetpatel1016](https://github.com/JeetPatel1016)
+  #### -UI design has been created in the collaboration with [Jeetpatel1016](https://github.com/JeetPatel1016)
 
+## - 🍜 La Food Fiesta
+
+  ![Lafoodfiesta Screenshot](https://drive.google.com/uc?id=1YA_0SsaxNU_hc2-Q40EQFS6GEvj5t9Z_)
+  
+  ### The Website Link: [lafoodfiesta](https://magnifiques.github.io/lafoodfiesta/)
+  
+  #### -Created only with the help of basic HTML, CSS and Javascript.
+  #### Edanam's API has been used for recipe's data.
+  
 <!--
 **magnifiques/magnifiques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
