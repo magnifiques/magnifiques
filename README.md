@@ -6,13 +6,20 @@
 
 
 
-### ⚪ List of my projects that has been done: 
+### ⚪ List of my projects that has been created and deployed by me: 
 
 
 
 ## - 🎬 Netflex the app
 
   ![Netflex app Screenshot](https://drive.google.com/uc?id=1F1j997kcKaPt3jL-7tHQ1faMhEgOg5N_)
+  
+  ### The Website link: [thenetflexapp](https://thenetflexapp.vercel.app/).
+  
+  
+  #### -For Frontend I've used: ReactJS, Styled-Components, Font-Awesome And Fuse.js.
+  #### -For Backend: Firebase for, 1. Storing information about meta-data and data related to movies and tv-shows. and 
+  ####                             2. Sign-In and Sign-Up features.
 
 
 <!--
