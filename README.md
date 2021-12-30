@@ -1,5 +1,7 @@
 #  Hello! my name is magnifiques :pizza:.
 
+### I am currently working and building web applications based on ReactJS and other modules.
+
 <!--
 **magnifiques/magnifiques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
