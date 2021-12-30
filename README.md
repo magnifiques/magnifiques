@@ -10,7 +10,7 @@
 
 
 
-## - 🎬 Netflex the app
+## - 🎬 Netflex
 
   ![Netflex app Screenshot](https://drive.google.com/uc?id=1F1j997kcKaPt3jL-7tHQ1faMhEgOg5N_)
   
