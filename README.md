@@ -19,7 +19,23 @@
   
   #### -For Frontend I've used: ReactJS, Styled-Components, Font-Awesome And Fuse.js.
   #### -For Backend: Firebase for, 1. Storing information related to movies and tv-shows. and 2. Sign-In and Sign-Up features.
+  #### -For logo and UI/UX design, adobe XD and Photoshop are used.
+  
+  
+## - 🎥 DisneyPlus Clone
 
+  ![DisneyPlus Screenshot](https://drive.google.com/uc?id=1Pu7ACP9nrQ8si7gVUahrzJO9OgOufu_6)
+  
+  ### The Website link: [disneyplusclone](https://thedisneyplusclone.vercel.app)
+  
+  
+  #### -For Frontend: ReactJs, Styled-Component and Font-Awesome.
+  #### -For Backend: Firebase and Dicebear with Google Signup/SignIn with the help of Firebase authentication.
+
+
+## - 🍿 PopAndCorn
+
+  ![PopAndCorn Screenshot]
 
 <!--
 **magnifiques/magnifiques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
