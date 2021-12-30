@@ -12,7 +12,7 @@
 
 ## - 🎬 Netflex the app
 
-  ![Netflex app Screenshot](https://drive.google.com/file/d/1F1j997kcKaPt3jL-7tHQ1faMhEgOg5N_/view)
+  ![Netflex app Screenshot](https://drive.google.com/uc?id=1F1j997kcKaPt3jL-7tHQ1faMhEgOg5N_)
 
 
 <!--
