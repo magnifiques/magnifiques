@@ -51,6 +51,15 @@
   #### -Created only with the help of basic HTML, CSS and Javascript.
   #### -Edanam's API has been used for recipe's data.
   
+## - ⚔ Swords Of Fury
+
+  ![SwordsOfFury Screenshot](https://drive.google.com/uc?id=1ct9a3ndcTeK0ElKux3UjED4g5BLsaHVp)
+  
+  ### The Website Link: [SwordsOfFury](https://swordfight.netlify.app/)
+  
+  #### -Created with the help of basic HTML, CSS and Javascript.
+  #### -Hand-to-Hand Combat based video game based heavily on Javascript's basic functionalities.
+  
 <!--
 **magnifiques/magnifiques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
