@@ -60,6 +60,15 @@
   #### -Created with the help of basic HTML, CSS and Javascript.
   #### -Hand-to-Hand Combat based video game based heavily on Javascript's basic functionalities.
   
+  
+## - 👩‍🚀 Astro Dash
+
+  ![AstroDash Screenshot](https://drive.google.com/uc?id=1sdWRTQtSMVmAxo2Hct3VX2Vpai1B0wOB)
+  
+  ### The Website Link: [AstroDash](https://theastrodash.netlify.app/)
+  
+  #### -Created with the help of basic HTML, CSS and vanilla Javascript.
+  #### -A platformer video game based on Nintendo's critically acclaimed video game franchise "Mario".  
 <!--
 **magnifiques/magnifiques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
