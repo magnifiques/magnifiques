@@ -2,7 +2,7 @@
 
 #### I like to build web applications and UI/UX designs.
 #### Most of my projects have been made with ReactJS and Javascript.
-#### I am a adroit in Node.js, Express.js, ReactJS, Firebase and Adobe XD.
+#### I prefer to work with Node.js, Express.js, ReactJS, Firebase and Adobe XD.
 
 
 
