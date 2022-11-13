@@ -8,6 +8,17 @@
 
 ### ⚪ List of my projects that has been created and deployed by me: 
 
+## - 🎬 Let's Mint It
+
+  ![Mint It Screenshots](https://drive.google.com/us?id=1Duy728KhZLyAQZhSb9Ew6kH8cQ04D5RJ)
+  ![Mint It Screenshots](https://drive.google.com/us?id=1y7cutu9dJW7eEimmojZOG4O89PAglbJm)
+  
+  ### The Website link: [letsmintit](https://letsmintit.vercel.app/).
+  
+  
+  #### -Created using frameworks such as Next.JS ThirdWeb, Sanity and Tailwind.
+  #### -Various NFTs can be claimed from NFT drops by using Mumbai Polygon Network.
+  #### -Claimed NFTs will be displayed on Opensea's Testnet portal.
 
 
 ## - 🎬 Netflex
