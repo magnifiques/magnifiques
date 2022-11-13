@@ -10,8 +10,8 @@
 
 ## - 🎬 Let's Mint It
 
-  ![Mint It Screenshots](https://drive.google.com/us?id=1Duy728KhZLyAQZhSb9Ew6kH8cQ04D5RJ)
-  ![Mint It Screenshots](https://drive.google.com/us?id=1y7cutu9dJW7eEimmojZOG4O89PAglbJm)
+  ![Mint It Screenshots](https://drive.google.com/uc?id=1Duy728KhZLyAQZhSb9Ew6kH8cQ04D5RJ)
+  ![Mint It Screenshots](https://drive.google.com/uc?id=1y7cutu9dJW7eEimmojZOG4O89PAglbJm)
   
   ### The Website link: [letsmintit](https://letsmintit.vercel.app/).
   
