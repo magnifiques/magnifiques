@@ -16,7 +16,7 @@
   ### The Website link: [letsmintit](https://letsmintit.vercel.app/).
   
   
-  #### -Created using frameworks such as Next.JS ThirdWeb, Sanity and Tailwind.
+  #### -Created using frameworks such as Next.JS, ThirdWeb, Sanity and Tailwind.
   #### -Various NFTs can be claimed from NFT drops by using Mumbai Polygon Network.
   #### -Claimed NFTs will be displayed on Opensea's Testnet portal.
 
