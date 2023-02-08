@@ -6,7 +6,7 @@
 
 
 
-### ⚪ List of my projects that has been created and deployed by me: 
+### ⚪ List of my projects that have been created and deployed by me: 
 
 ## - 🎬 Let's Mint It
 
