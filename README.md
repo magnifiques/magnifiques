@@ -1,4 +1,4 @@
-#  Hello! my name is magnifiques .
+#  Hello! my name is magnifiques :prayer_beads:.
 
 #### I create web applications and UI/UX designs.
 #### Most of my projects have been made with ReactJS and Javascript.
