@@ -1,4 +1,4 @@
-#  Hello! my name is magnifiques :pizza:.
+#  Hello! my name is magnifiques .
 
 #### I create web applications and UI/UX designs.
 #### Most of my projects have been made with ReactJS and Javascript.
