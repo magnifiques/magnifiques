@@ -1,12 +1,14 @@
-#  Hello! my name is magnifiques :prayer_beads:.
+#  Hello! My name is magnifiques :prayer_beads:
 
 #### I create web applications and UI/UX designs.
 #### Most of my projects have been made with ReactJS and Javascript.
-#### I prefer to work with Node.js, Express.js, ReactJS, Firebase and Adobe XD.
+#### I prefer to work with Node.js, Express.js, ReactJS, Firebase, and Adobe XD.
 
 
 
-### ⚪ List of my projects that have been created and deployed by me: 
+### ⚪ List of my projects that have been created and deployed by me:
+
+
 
 ## - 🎬 Let's Mint It
 
@@ -16,8 +18,8 @@
   ### The Website link: [letsmintit](https://letsmintit.vercel.app/).
   
   
-  #### -Created using frameworks such as Next.JS, ThirdWeb, Sanity and Tailwind.
-  #### -Various NFTs can be claimed from NFT drops by using Mumbai Polygon Network.
+  #### -Created using frameworks like Next.JS, ThirdWeb, Sanity, and Tailwind.
+  #### -Mumbai Polygon Network can claim Various NFTs from NFT drops.
   #### -Claimed NFTs will be displayed on Opensea's Testnet portal.
 
 
@@ -28,8 +30,8 @@
   ### The Website link: [thenetflexapp](https://thenetflexapp.vercel.app/).
   
   
-  #### -For Frontend I've used: ReactJS, Styled-Components, Font-Awesome And Fuse.js.
-  #### -For Backend: Firebase for, 1. Storing information related to movies and tv-shows. and 2. Sign-In and Sign-Up features.
+  #### -I've used ReactJS, Styled-Components, Font-Awesome And Fuse.js for Frontend.
+  #### -For Backend: Firebase for, 1. Storing information related to movies and TV shows. and 2. Sign-In and Sign-Up features.
   #### -For logo and UI/UX design, adobe XD and Photoshop are used.
   
   
@@ -41,7 +43,7 @@
   
   
   #### -For Frontend: ReactJs, Styled-Component and Font-Awesome.
-  #### -For Backend: Firebase and Dicebear with Google Signup/SignIn feature by the help of Firebase authentication.
+  #### -For Backend: Firebase and Dicebear with Google Signup/SignIn feature with the help of Firebase authentication.
 
 
 ## - 🍿 PopAndCorn
@@ -59,8 +61,8 @@
   
   ### The Website Link: [lafoodfiesta](https://magnifiques.github.io/lafoodfiesta/)
   
-  #### -Created only with the help of basic HTML, CSS and Javascript.
-  #### -Edanam's API has been used for recipe's data.
+  #### -Created only with the help of basic HTML, CSS, and Javascript.
+  #### -Edanam's API has been used for recipe data.
   
 ## - ⚔ Swords Of Fury
 
@@ -68,7 +70,7 @@
   
   ### The Website Link: [SwordsOfFury](https://swordfight.netlify.app/)
   
-  #### -Created with the help of basic HTML, CSS and Javascript.
+  #### -Created with the help of basic HTML, CSS, and Javascript.
   #### -Hand-to-Hand Combat based video game based heavily on Javascript's basic functionalities.
   
   
@@ -78,7 +80,7 @@
   
   ### The Website Link: [AstroDash](https://theastrodash.netlify.app/)
   
-  #### -Created with the help of basic HTML, CSS and vanilla Javascript.
+  #### -Created with the help of basic HTML, CSS, and vanilla Javascript.
   #### -A platformer video game based on Nintendo's critically acclaimed video game franchise "Mario".  
 <!--
 **magnifiques/magnifiques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
