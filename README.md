@@ -1,13 +1,23 @@
-#  Hello! My name is magnifiques :prayer_beads:
+#  Greetings! I'm magnifiques 📿, a web developer and UI/UX designer passionate about crafting amazing digital experiences.
 
-#### I create web applications and UI/UX designs.
-#### Most of my projects have been made with ReactJS and Javascript.
-#### I prefer to work with Node.js, Express.js, ReactJS, Firebase, and Adobe XD.
+#### I specialize in using cutting-edge technologies such as ReactJS and JavaScript to bring ideas to life. The majority of my projects showcase my proficiency in working with the ReactJS library. Additionally, I leverage the power of Node.js and Express.js for backend development, and Figma for designing intuitive user experiences.
+#### I am dedicated to delivering high-quality solutions that not only meet but exceed the expectations of users. Let's collaborate to turn your ideas into captivating digital realities!
 
 
 
 ### ⚪ List of my projects that have been created and deployed by me:
 
+## - 👠 Vampfire 
+
+  ![Vampfire Screenshots](https://drive.google.com/uc?id=1NQV2eiGmadG8QHO1LOEn9IE6w3TSDKAf)
+  ![Vampfire Screenshots](https://drive.google.com/uc?id=1BmmhKV2z93p5NWLkOi2KnugcgldnlHCs)
+  
+  ### The Website link: [vampfire](https://vampfire.vercel.app/).
+  
+  
+  #### - Vampfire is the culmination of my lifelong passion for music and fashion, offering a curated collection that not only celebrates iconic styles and seasonal marvels but also pays homage to the profound influence of hip-hop fashion on my personal wardrobe choices.
+  #### - Developed utilizing advanced frameworks including Next.js, Prisma, Stripe, and Tailwind CSS.
+  #### - Employed Stripe's testing environment to simulate and validate payment transactions
 
 
 ## - 🎬 Let's Mint It
