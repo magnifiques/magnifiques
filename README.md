@@ -19,7 +19,7 @@
   #### - Developed utilizing advanced frameworks including Next.js, Prisma, Stripe, and Tailwind CSS.
   #### - Employed Stripe's testing environment to simulate and validate payment transactions
 
-## - 🎬 The Blog Stash
+## - 📰 The Blog Stash
   ![Blog Stash Screenshots](https://drive.google.com/uc?id=1_ewQhQjk4_cOunDFEdK5A79lEd-p2-Ay)
   ![Blog Stash Screenshots](https://drive.google.com/uc?id=1mEXSzdXPB8mleLfIpTw90cOtczBO-_mA)
   
@@ -30,7 +30,7 @@
   #### - Utilized advanced frameworks including Next.js, Prisma, TypeScript, and Tailwind CSS.
   #### - Implemented dynamic content editing capabilities using Tiptap 
 
-## - 🎬 Let's Mint It
+## - 👛 Let's Mint It
 
   ![Mint It Screenshots](https://drive.google.com/uc?id=1Duy728KhZLyAQZhSb9Ew6kH8cQ04D5RJ)
   ![Mint It Screenshots](https://drive.google.com/uc?id=1y7cutu9dJW7eEimmojZOG4O89PAglbJm)
@@ -38,9 +38,9 @@
   ### The Website link: [letsmintit](https://letsmintit.vercel.app/).
   
   
-  #### -Created using frameworks like Next.JS, ThirdWeb, Sanity, and Tailwind.
-  #### -Mumbai Polygon Network can claim Various NFTs from NFT drops.
-  #### -Claimed NFTs will be displayed on Opensea's Testnet portal.
+  #### - Crafted with frameworks including Next.js, ThirdWeb, Sanity, and Tailwind for a seamless and visually captivating experience.
+  #### - Unlock a world of possibilities on the Mumbai Polygon Network by claiming a diverse array of NFTs through exclusive NFT drops!
+  #### - Showcase your claimed NFTs on Opensea's Testnet portal
 
 
 ## - 🎬 Netflex
@@ -50,8 +50,8 @@
   ### The Website link: [thenetflexapp](https://thenetflexapp.vercel.app/).
   
   
-  #### -I've used ReactJS, Styled-Components, Font-Awesome And Fuse.js for Frontend.
-  #### -For Backend: Firebase for, 1. Storing information related to movies and TV shows. and 2. Sign-In and Sign-Up features.
+  #### -Designed utilizing frameworks such as ReactJS, Styled-Components, Font-Awesome, And Fuse.js for Frontend.
+  #### -Firebase takes center stage on the backend, serving dual purposes: storing comprehensive information about movies and TV shows and seamlessly managing the Sign-In and Sign-Up features.
   #### -For logo and UI/UX design, adobe XD and Photoshop are used.
   
   
@@ -73,7 +73,7 @@
   ### The Website Link: [popandcorn](https://popandcorn.netlify.app/)
   
   #### -ReactJS and material-ui are used as there is no backend portion.
-  #### -UI design has been created in the collaboration with [Jeetpatel1016](https://github.com/JeetPatel1016)
+  #### -UI design has been created in collaboration with [Jeetpatel1016](https://github.com/JeetPatel1016)
 
 ## - 🍜 La Food Fiesta
 
