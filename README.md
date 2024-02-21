@@ -19,6 +19,16 @@
   #### - Developed utilizing advanced frameworks including Next.js, Prisma, Stripe, and Tailwind CSS.
   #### - Employed Stripe's testing environment to simulate and validate payment transactions
 
+## - 🎬 The Blog Stash
+  ![Blog Stash Screenshots](https://drive.google.com/uc?id=1_ewQhQjk4_cOunDFEdK5A79lEd-p2-Ay)
+  ![Blog Stash Screenshots](https://drive.google.com/uc?id=1mEXSzdXPB8mleLfIpTw90cOtczBO-_mA)
+  
+  ### The Website link: [theblogstash](https://the-blog-stash.vercel.app/).
+  
+  
+  #### - Developed a dynamic blog site, empowering users to effortlessly modify and update content, providing a seamless and interactive platform for sharing and showcasing diverse perspectives.  
+  #### - Utilized advanced frameworks including Next.js, Prisma, TypeScript, and Tailwind CSS.
+  #### - Implemented dynamic content editing capabilities using Tiptap 
 
 ## - 🎬 Let's Mint It
 
