@@ -1,4 +1,4 @@
-#  Greetings! I'm magnifiques 📿, a web developer and UI/UX designer, passionate about crafting amazing digital experiences.
+#  Greetings! I'm Magnifiques 📿, a web developer and UI/UX designer, passionate about crafting amazing digital experiences.
 
 #### I specialize in using cutting-edge technologies such as ReactJS and JavaScript to bring ideas to life. The majority of my projects showcase my proficiency in working with the ReactJS library. Additionally, I leverage the power of Node.js and Express.js for backend development, and Figma for designing intuitive user experiences.
 #### I am dedicated to delivering high-quality solutions that not only meet but exceed the expectations of users. Let's collaborate to turn your ideas into captivating digital realities!
@@ -28,7 +28,22 @@
   
   #### - Developed a dynamic blog site, empowering users to effortlessly modify and update content, providing a seamless and interactive platform for sharing and showcasing diverse perspectives.  
   #### - Utilized advanced frameworks including Next.js, Prisma, TypeScript, and Tailwind CSS.
-  #### - Implemented dynamic content editing capabilities using Tiptap 
+  #### - Implemented dynamic content editing capabilities using Tiptap.
+
+  
+  ## - 🌸 Bloom
+  ![Bloom Screenshots](https://drive.google.com/uc?id=1cLOFE876dt857eEPVhCuU3TYa37GQ_5i)
+  ![Bloom Screenshots](https://drive.google.com/uc?id=1sdi2pgU0Lyv55_xZ6CsZ1fm2CyUcu6aV)
+  ![Bloom Screenshots](https://drive.google.com/uc?id=1oxDIPGOimQ_ut0GvvbtxfVvxAB0pF6xS)
+  
+  
+  ### The Website link: [theblogstash](https://bloom-meetings.vercel.app/).
+  
+  
+  #### - Bloom is an interactive virtual meeting creator where you can seamlessly create, join, and manage meetings, all in one place.  
+  #### - Implemented video conference features using Stream, Stream is a game-changer in the realm of virtual communication, revolutionizing the way we experience video calls and livestreams.
+  #### - Utilized Next.js 14 for seamless functionality, TailwindCSS for styling, ShadCN for component Building, and Clerk for Ensuring robust user authentication and data security.
+
 
 ## - 👛 Let's Mint It
 
@@ -40,7 +55,7 @@
   
   #### - Crafted with frameworks including Next.js, ThirdWeb, Sanity, and Tailwind for a seamless and visually captivating experience.
   #### - Unlock a world of possibilities on the Mumbai Polygon Network by claiming a diverse array of NFTs through exclusive NFT drops!
-  #### - Showcase your claimed NFTs on Opensea's Testnet portal
+  #### - Showcase your claimed NFTs on Opensea's Testnet portal.
 
 ## - 🏨 AirBBN
 
