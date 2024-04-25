@@ -42,12 +42,12 @@
   #### - Unlock a world of possibilities on the Mumbai Polygon Network by claiming a diverse array of NFTs through exclusive NFT drops!
   #### - Showcase your claimed NFTs on Opensea's Testnet portal
 
-## - 👛 AirBBN
+## - 🏨 AirBBN
 
   ![Airbbn Screenshots](https://drive.google.com/uc?id=1l_GXF8E7LKwAtvne50NcVrpZ9_9_LnqF)
   ![Airbbn Screenshots](https://drive.google.com/uc?id=1oyuloHuh53ZkgiqQbVWdok7-7M8PRRp9)
   
-  ### The Website link: [airbbn](https://letsmintit.vercel.app/).
+  ### The Website link: [airbbn](https://airbbn.vercel.app/).
   
   
   #### - AirBBN is an Airbnb-inspired platform that offers a wide range of unique accommodations for travelers around the world. From cozy apartments to exotic treehouses, our platform connects you with unforgettable stays tailored to your preferences.
