@@ -37,7 +37,7 @@
   ![Bloom Screenshots](https://drive.google.com/uc?id=1oxDIPGOimQ_ut0GvvbtxfVvxAB0pF6xS)
   
   
-  ### The Website link: [theblogstash](https://bloom-meetings.vercel.app/).
+  ### The Website link: [bloom](https://bloom-meetings.vercel.app/).
   
   
   #### - Bloom is an interactive virtual meeting creator where you can seamlessly create, join, and manage meetings, all in one place.  
