@@ -1,6 +1,6 @@
 #  Greetings! I'm Magnifiques 📿, a web developer and UI/UX designer, passionate about crafting amazing digital experiences.
 
-## I use ReactJS and JavaScript to bring ideas to life. Most of my projects highlight my skills with ReactJS. For backend work, I use Node.js and Express.js, and I design user-friendly interfaces with Figma. I’m focused on delivering high-quality solutions that exceed expectations. Let's work together to turn your ideas into amazing digital experiences!
+### I use Next.Js and JavaScript to bring ideas to life. Most of my projects highlight my skills with Next.Js. For backend work, I use Node.js and Express.js, and I design user-friendly interfaces with Figma. I’m focused on delivering high-quality solutions that exceed expectations. Let's work together to turn your ideas into amazing digital experiences!
 
 
 
