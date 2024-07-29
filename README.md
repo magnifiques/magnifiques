@@ -41,6 +41,19 @@
   #### - Implemented video conference features using Stream, Stream is a game-changer in the realm of virtual communication, revolutionizing the way we experience video calls and livestreams.
   #### - Utilized Next.js 14 for seamless functionality, TailwindCSS for styling, ShadCN for component Building, and Clerk for Ensuring robust user authentication and data security.
 
+## - 🍋 Catalyst: Event Management App
+
+  ### The Website link: [catalyst](thecatalyst.vercel.app/).
+
+  ![Catalyst Screenshots](https://drive.google.com/uc?id=1z9DDAytWZoMH4mUdShWxoUZ68Tt3-8x2)
+  ![Catalyst Screenshots](https://drive.google.com/uc?id=1rQN1ttucyQl3j1hW37vEJm2z4DzfGb1X)
+  ![Catalyst Screenshots](https://drive.google.com/uc?id=1cAflc9k0loyPCFhuioJevrYr0_Bw0CzG)
+  
+
+#### - Catalyst is a web app that makes event creation and management easy. 
+#### - Built with Next.js, TypeScript, React, and Stripe, it ensures a smooth experience for organizers and attendees. 
+#### - Technologies used include Tailwind CSS, MongoDB, Mongoose, Clerk, ShadCN, Uploadthing, and Zod.
+
 
 ## - 👛 Let's Mint It
 
