@@ -54,14 +54,13 @@
 #### - Built with Next.js, TypeScript, React, and Stripe, it ensures a smooth experience for organizers and attendees. 
 #### - Technologies used include Tailwind CSS, MongoDB, Mongoose, Clerk, ShadCN, Uploadthing, and Zod.
 
-## - 🍋 Quest:
+## - 💲 Quest:
 
   ### The Website link: [Quest](https://quest-finance.vercel.app/).
 
   ![Quest Screenshots](https://drive.google.com/uc?id=1qqWtEr7rNT61Upwnv5OWiCoytljGdJ2F)
-  ![Quest Screenshots](https://drive.google.com/uc?id=1cAflc9k0loyPCFhuioJevrYr0_Bw0CzG)
-  
-
+  ![Quest Screenshots](https://drive.google.com/uc?id=1jXJy9wm8-YOlyRk4pi8W1yhomcwcB8vl)
+ 
 #### - Quest is a finance management dashboard web application that makes finance management simple. 
 #### - This robust platform connects multiple bank accounts, displays real-time transactions, and allows seamless fund transfers between users. 
 #### - Technologies used include Tailwind CSS, MongoDB, Plaid, Dwolla, ShadCN, and Appwrite.
