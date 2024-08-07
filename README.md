@@ -1,4 +1,4 @@
-#  Greetings! I'm Magnifiques 📿, a web developer and UI/UX designer, passionate about crafting amazing digital experiences.
+#  Greetings! I'm Arpit 📿, a web developer and UI/UX designer, passionate about crafting amazing digital experiences.
 
 ### I use Next.Js and JavaScript to bring ideas to life. Most of my projects highlight my skills with Next.Js. For backend work, I use Node.js and Express.js, and I design user-friendly interfaces with Figma. 
 
