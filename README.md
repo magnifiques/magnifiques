@@ -2,6 +2,9 @@
 
 ### I use Next.Js and JavaScript to bring ideas to life. Most of my projects highlight my skills with Next.Js. For backend work, I use Node.js and Express.js, and I design user-friendly interfaces with Figma. 
 
+[![Magnifiques's GitHub stats](https://github-readme-stats.vercel.app/api?username=magnifiques)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### ⚪ List of my projects that have been created and deployed by me:
 
 ## - 👠 Vampfire 
