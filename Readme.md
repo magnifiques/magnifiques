@@ -5,6 +5,24 @@
 
 ### ⚪ List of my projects that have been created and deployed by me:
 
+## WhatToCookToday 🍳
+
+![huggingface co_spaces_vapit_whattocooktoday](https://github.com/user-attachments/assets/e9627545-0ef5-4982-b41f-a382d64f0ec8)
+
+
+### The Website link: [WhatToCookToday](https://huggingface.co/spaces/vapit/whattocooktoday).
+
+- Built a smart recipe recommendation system using Retrieval-Augmented Generation (RAG) and semantic search to match user-input ingredients with 180K+ real-world recipes.
+
+- Implemented dense vector search with SentenceTransformers and ChromaDB, enabling real-time, context-aware recipe suggestions without relying on keyword matching.
+
+- Designed a fully CPU-compatible pipeline, optimizing for low-resource environments by avoiding model fine-tuning and using lightweight, pre-trained embeddings.
+
+- Preprocessed and normalized a large-scale recipe dataset (Food.com), handling data cleaning, formatting, and conversion into LangChain-compatible documents.
+
+- Deployed an interactive cooking assistant UI on Hugging Face Spaces using Gradio, supporting natural language ingredient input and seamless user interaction.
+
+
 ## Breemary 🐝
 
 ![1](https://github.com/user-attachments/assets/2051aa7c-7a5a-41fe-9003-8f3f0041b542)
