@@ -43,7 +43,7 @@
 ![Screenshot 2025-01-15 004652](https://github.com/user-attachments/assets/36f7c4bb-7b19-4b2a-a520-594ae36d2a13)
 ![Screenshot 2025-01-15 004733](https://github.com/user-attachments/assets/3c32e457-740d-4fba-9bfe-bffcdb10cb24)
 
-### The Website link: [Foodvision](https://huggingface.co/spaces/vapit/DogVision).
+### The Website link: [Dogvision](https://huggingface.co/spaces/vapit/DogVision).
 
 
 - Developed a high-speed, lightweight dog breed classification model using PyTorch, trained on 120 unique dog breeds from the Kaggle Dog Breed Identification dataset.
