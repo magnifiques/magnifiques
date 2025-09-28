@@ -5,6 +5,20 @@
 
 ### ⚪ List of my projects that have been created and deployed by me:
 
+## Watermarking Language Models: Red List / Green List vs. Cluster Watermarking 🔐
+
+### The Project link: [Project]([https://huggingface.co/spaces/vapit/whattocooktoday](https://github.com/magnifiques/watermarking-with-llm)). 
+
+= Conducted a comparative study of text watermarking techniques on transformer-based models (OPT-350M, GPT-2 Medium), evaluating trade-offs in semantic fluency, coherence, and detectability.
+
+- Implemented and analyzed Red List / Green List watermarking (token-level constraints) vs. Cluster watermarking (distributional control) across BLEU, ROUGE, and Perplexity metrics.
+
+- Designed and ran experiments with multiple hyperparameter configurations (γ, δ), leveraging PyTorch, HuggingFace Transformers, Scikit-learn, NLTK, and SacreBLEU.
+
+- Findings: Red/Green list methods excelled in semantic fidelity, while Cluster watermarking preserved coherence with lower perplexity.
+
+- Future directions: scale experiments to larger models (GPT-J, LLaMA-7B), test adversarial robustness, and combine watermarking with reinforcement learning.
+
 ## WhatToCookToday 🍳
 <!--
 ![huggingface co_spaces_vapit_whattocooktoday](https://github.com/user-attachments/assets/e9627545-0ef5-4982-b41f-a382d64f0ec8)
