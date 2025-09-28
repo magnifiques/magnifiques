@@ -6,9 +6,9 @@
 ### ⚪ List of my projects that have been created and deployed by me:
 
 ## WhatToCookToday 🍳
-
+<!--
 ![huggingface co_spaces_vapit_whattocooktoday](https://github.com/user-attachments/assets/e9627545-0ef5-4982-b41f-a382d64f0ec8)
-
+--->
 
 ### The Website link: [WhatToCookToday](https://huggingface.co/spaces/vapit/whattocooktoday).
 
