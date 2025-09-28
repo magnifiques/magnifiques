@@ -9,7 +9,7 @@
 
 ### The Project link: [Project]([https://huggingface.co/spaces/vapit/whattocooktoday](https://github.com/magnifiques/watermarking-with-llm)). 
 
-= Conducted a comparative study of text watermarking techniques on transformer-based models (OPT-350M, GPT-2 Medium), evaluating trade-offs in semantic fluency, coherence, and detectability.
+- Conducted a comparative study of text watermarking techniques on transformer-based models (OPT-350M, GPT-2 Medium), evaluating trade-offs in semantic fluency, coherence, and detectability.
 
 - Implemented and analyzed Red List / Green List watermarking (token-level constraints) vs. Cluster watermarking (distributional control) across BLEU, ROUGE, and Perplexity metrics.
 
