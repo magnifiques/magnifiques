@@ -113,7 +113,7 @@
 ![Catalyst Screenshots](https://drive.google.com/uc?id=1cAflc9k0loyPCFhuioJevrYr0_Bw0CzG)
 -->
 
-### The Website link: [Catalyst](thecatalyst.vercel.app/).
+### The Website link: [Catalyst](https://thecatalyst.vercel.app)
 
 - Catalyst is a web app that makes event creation and management easy. 
 - Built with Next.js, TypeScript, React, and Stripe, it ensures a smooth experience for organizers and attendees. 
