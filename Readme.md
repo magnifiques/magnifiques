@@ -1,6 +1,6 @@
 #  Hey there! I'm Arpit 🐱‍🚀
 
-## I'm a curious developer and builder who started with web development and UI/UX design. Now I’m diving into the world of Machine Learning, Data Science, and Generative AI. I love turning ideas into amazing projects, whether it’s a 3D website or a smart machine learning model that identifies the breed of a dog.
+## I'm an AI Engineer who started with web development and UI/UX design. Now I’m diving into the world of Machine Learning, Data Science, and Generative AI. I love turning ideas into amazing projects, whether it’s a 3D website or a smart machine learning model that identifies the breed of a dog.
 
 
 ### ⚪ List of my projects that have been created and deployed by me:
